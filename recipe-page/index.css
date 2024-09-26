@@ -177,7 +177,7 @@ td {
 
 @media (min-width: 45rem) {
   .container {
-    margin-block: 100px;
+    margin-block: 1rem;
     padding-block: var(--container-padding);
     border-radius: var(--radius-base);
   }
